@@ -8,9 +8,7 @@ export const metadata = { title: 'O mne | ZoskaSnap'}
 export default function About() {
   return (
     <Container>
-      <Typography variant="h5" gutterBottom>
-        O mne stranka
-      </Typography>
+      <Typography>O mne stranka</Typography>
     </Container>
   );
 }

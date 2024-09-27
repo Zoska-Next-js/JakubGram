@@ -8,9 +8,7 @@ export const metadata = { title: 'Podmienky | ZoskaSnap'}
 export default function TermsConditions() {
   return (
     <Box>
-      <Typography variant="h5" gutterBottom>
-        Podmienky stranka
-      </Typography>
+      <Typography>Podmienky stranka</Typography>
     </Box>
   );
 }

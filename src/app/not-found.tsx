@@ -6,9 +6,7 @@ export const metadata = { title: 'Nenajdene | ZoskaSnap'}
 
 export default function NotFound() {
   return (
-    <Typography variant="h5" gutterBottom>
-      Stranka neexistuje
-    </Typography>
+    <Typography>Stranka neexistuje</Typography>
   );
 }
 
