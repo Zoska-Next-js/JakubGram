@@ -7,7 +7,7 @@ export const metadata = { title: 'Domov | ZoskaSnap'}
 export default function Home() {
   return (
     <Typography variant="h5" gutterBottom>
-      Domovska strank
+      Domovska stranka
     </Typography>
   );
 }
